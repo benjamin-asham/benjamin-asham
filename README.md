@@ -1,11 +1,20 @@
 # Hi ... I’m Benjamin! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
-<a href="https://twitter.com/YourTwitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/in/YourLinkedIn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/YourDiscord#0000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="40" width="30" /></a>&nbsp;
-<a href="https://www.buymeacoffee.com/YourLink"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+  <a href="https://wa.me/01278415167" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" alt="whatsapp" height="30" width="30" style="filter: invert(1);" />
+  </a>&nbsp;
+  <a href="[https://facebook.com/YourFacebook](https://www.facebook.com/share/19CuJDi3sG/?mibextid=wwXIfr)" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook" height="30" width="30" style="filter: invert(1);" />
+  </a>&nbsp;
+  <a href="[https://instagram.com/YourInstagram](https://www.instagram.com/baneamen_asham?igsh=MXNhdHc4azg4OWEybA%3D%3D&utm_source=qr)" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="30" style="filter: invert(1);" />
+  </a>&nbsp;
+  <a href="[https://linkedin.com/in/YourLinkedIn](https://www.linkedin.com/in/benjaminasham?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="30" style="filter: invert(1);" />
+  </a>
 </p>
+
 
 ---
 
@@ -18,24 +27,18 @@
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
 </p>
 
----
 
-### 📊 My Github Stats:
-![Benjamin's github stats](https://github-readme-stats.vercel.app/api?username=BenjaminAsham&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminAsham&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BenjaminAsham&theme=dark)](https://git.io/streak-stats)
-
----
 
 ### ✍️ Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
